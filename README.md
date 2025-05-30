@@ -1,6 +1,8 @@
 [![Issues][issues-badge]][issues-url]
 
-![Clerk Hackathon](https://github.com/user-attachments/assets/5a88641c-f56a-4b8d-8744-84504ce6059d)
+[![Clerk Hackathon](https://github.com/user-attachments/assets/5a88641c-f56a-4b8d-8744-84504ce6059d)](https://midu.link/clerk)
+
+**Regístrate en Clerk: https://midu.link/clerk**
 
 <details>
   <summary>📖 Tabla de contenido</summary>
